@@ -1,5 +1,5 @@
 # 1. Use a lightweight version of Python 3.9
-FROM python:3.10-slim-bullseye
+FROM python:3.11-slim-bullseye
 
 
 
